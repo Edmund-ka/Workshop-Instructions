@@ -28,3 +28,7 @@ To include Bootstrap's CSS in your project, add the following `<link>` tag insid
 ```html
 <button class="btn btn-primary">Bootstrap Button</button>
 ```
+
+
+## EXCERCISE 1: DESIGN SOMETHING USING Bootstrap
+Task: Your task is to design something using prebuilt components from bootstrap no matter how big or small. Some example are buttons, forms, inputs etc.

@@ -21,3 +21,7 @@ To include Bootstrap's CSS in your project, add the following `<link>` tag insid
 ```html
 <h1 class="animate__animated animate__bounce">An animated element</h1>
 ```
+
+
+## EXCERCISE 1: ANIMATE A BUTTON
+Task: Make a buuton and Apply a different animation to the button (e.g., animate__shakeX).
