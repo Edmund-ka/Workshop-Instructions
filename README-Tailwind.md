@@ -20,7 +20,7 @@ npx tailwindcss init
 ## Step 4: Configure Tailwind
 ```html
 module.exports = {
-  content: ["./src/**/*.{html,js}"],
+  content: ["./src/*.css", "./index.html"],
   theme: {
     extend: {},
   },
